@@ -4,8 +4,6 @@
   <i>Code with elegance, break with precision.</i>
 </p>
 
----
-
 <div align="center">
   <img 
     src="https://avatars.githubusercontent.com/u/105902932?v=4"
@@ -26,10 +24,6 @@
   🥀 Turning ideas into reality—one line at a time
 </p>
 
----
-
-<h3 align="center">🛠️ Tech Stack</h3>
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5"/>
   <img width="12"/>
@@ -41,19 +35,3 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java"/>
 </div>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItzArefin&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-</div>
-
----
-
-<h3 align="center">🕯️ Motto</h3>
-
-<p align="center">
-  <b>"Silent code speaks the loudest."</b>
-</p>
